@@ -16,7 +16,7 @@ define('EMAIL_RECIPIENT', 'ilhamtaufiq@gmail.com');
 // domain of your website
 define('SITE_DOMAIN', 'dev.cenderakopi.com');
 // port number of SSH for your server (may vary by hosting provider -- for me, it was 21098)
-define('SSH_PORT', 22);
+define('SSH_PORT', 64000);
 // username for SSH (should be the same as your cPanel login username)
 define('SSH_USERNAME', 'nirlekac');
 // filename for the keypair to use -- no need to change this if you follow the readme instructions
