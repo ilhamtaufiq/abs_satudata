@@ -1,2 +1,4 @@
 # ABS SatuData
-## ABS merupakan singkatan dari Bidang Air Bersih dan Sanitasi pada Dinas Perumahan Kawasan Permukiman dan Pertanahan Kabupaten Cianjur
+<p align="center">
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/ilhamtaufiq/abs_satudata/blob/master/LICENSE.md)
+</p>
