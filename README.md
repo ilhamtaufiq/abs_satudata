@@ -12,7 +12,11 @@ Tugas Kerja Praktek
 ### Task List
 
 - [x] User Management
-- [x] Relasi Database
-- [ ] Tambah Modul
-- [ ] Notifikasi
-- [ ] Custom View
+- [x] Database Relation
+- [ ] Useful Modules
+- [ ] Notification
+- [ ] Laporan Kerja Praktek, wkwkwk.
+
+## Credits
+1. crocodic-studio [Crudbooster](https://github.com/crocodic-studio/crudbooster)
+2. Thanks To All Comerades
