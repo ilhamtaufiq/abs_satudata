@@ -9,7 +9,7 @@ Tugas Kerja Praktek
 <br>
 
 <p align="center">
-  SCREENSHOT DI SINI
+![alt text](https://github.com/ilhamtaufiq/abs_satudata/blob/master/screenshot/login_page.png?raw=true)
 </p>
 
 ### Task List
@@ -19,4 +19,3 @@ Tugas Kerja Praktek
 - [ ] Tambah Modul
 - [ ] Notifikasi
 - [ ] Custom View
-
