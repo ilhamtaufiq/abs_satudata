@@ -6,11 +6,8 @@
 </h1>
 
 Tugas Kerja Praktek
-<br>
 
-<p align="center">
 ![alt text](https://github.com/ilhamtaufiq/abs_satudata/blob/master/screenshot/login_page.png?raw=true)
-</p>
 
 ### Task List
 
